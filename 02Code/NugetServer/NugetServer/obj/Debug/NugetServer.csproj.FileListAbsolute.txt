@@ -1,0 +1,15 @@
+D:\00框架\NugetServer\NugetServer\NugetServer\bin\NugetServer.dll
+D:\00框架\NugetServer\NugetServer\NugetServer\bin\NugetServer.pdb
+D:\00框架\NugetServer\NugetServer\NugetServer\bin\Elmah.dll
+D:\00框架\NugetServer\NugetServer\NugetServer\bin\Microsoft.Web.Infrastructure.dll
+D:\00框架\NugetServer\NugetServer\NugetServer\bin\Microsoft.Web.XmlTransform.dll
+D:\00框架\NugetServer\NugetServer\NugetServer\bin\Ninject.dll
+D:\00框架\NugetServer\NugetServer\NugetServer\bin\NuGet.Core.dll
+D:\00框架\NugetServer\NugetServer\NugetServer\bin\NuGet.Server.dll
+D:\00框架\NugetServer\NugetServer\NugetServer\bin\RouteMagic.dll
+D:\00框架\NugetServer\NugetServer\NugetServer\bin\WebActivatorEx.dll
+D:\00框架\NugetServer\NugetServer\NugetServer\bin\Ninject.pdb
+D:\00框架\NugetServer\NugetServer\NugetServer\bin\Ninject.xml
+D:\00框架\NugetServer\NugetServer\NugetServer\obj\Debug\NugetServer.dll
+D:\00框架\NugetServer\NugetServer\NugetServer\obj\Debug\NugetServer.pdb
+D:\00框架\NugetServer\NugetServer\NugetServer\obj\Debug\NugetServer.csprojResolveAssemblyReference.cache

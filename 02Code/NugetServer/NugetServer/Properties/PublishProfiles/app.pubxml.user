@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+您 Web 项目的发布/打包进程将使用此文件。您可以通过编辑此 MSBuild 文件
+来自定义该进程的行为。若要了解与此相关的详细信息，请访问 http://go.microsoft.com/fwlink/?LinkID=208121。
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>D:\00框架\NugetServer\00发布</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="App_Readme/Elmah.txt">
+      <publishTime>08/11/2017 10:26:05</publishTime>
+    </File>
+    <File Include="bin/Elmah.dll">
+      <publishTime>08/11/2017 10:25:58</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>08/11/2017 10:25:58</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.XmlTransform.dll">
+      <publishTime>08/11/2017 10:25:58</publishTime>
+    </File>
+    <File Include="bin/Ninject.dll">
+      <publishTime>08/11/2017 10:25:58</publishTime>
+    </File>
+    <File Include="bin/NuGet.Core.dll">
+      <publishTime>08/11/2017 10:32:18</publishTime>
+    </File>
+    <File Include="bin/NuGet.Server.dll">
+      <publishTime>08/11/2017 10:32:19</publishTime>
+    </File>
+    <File Include="bin/NugetServer.dll">
+      <publishTime>08/11/2017 11:17:19</publishTime>
+    </File>
+    <File Include="bin/RouteMagic.dll">
+      <publishTime>08/11/2017 10:25:58</publishTime>
+    </File>
+    <File Include="bin/WebActivatorEx.dll">
+      <publishTime>08/11/2017 10:25:58</publishTime>
+    </File>
+    <File Include="DataServices/Packages.svc">
+      <publishTime>08/11/2017 10:32:19</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>08/11/2017 10:32:19</publishTime>
+    </File>
+    <File Include="favicon.ico">
+      <publishTime>08/11/2017 10:32:19</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>08/11/2017 10:32:19</publishTime>
+    </File>
+    <File Include="Packages/Readme.txt">
+      <publishTime>08/11/2017 10:32:19</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>08/11/2017 11:17:20</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
